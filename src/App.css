@@ -1,10 +1,10 @@
 .App {
-  text-align: center;
+  text-align: left;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.CalendarWrapper {
+  padding: 0 12px;
+  height: 100%;
 }
 
 @media (prefers-reduced-motion: no-preference) {

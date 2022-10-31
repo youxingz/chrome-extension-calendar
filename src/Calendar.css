@@ -1,0 +1,25 @@
+.calendar thead>tr>th{
+  padding: 0 0 5px 0 !important;
+}
+.cell {
+  min-height: 100px;
+  border: 0.5px #eee solid;
+}
+.cell-today {
+  background-color: bisque;
+}
+.cell-header {
+  text-align: right;
+}
+.cell-content {
+  min-width: 100px;
+  text-align: left;
+  padding: 0 6px;
+}
+.cell-header-today {
+  color: rgb(66, 99, 232);
+  font-weight: 700;
+}
+.cell-content-today {
+  background-color: bisque;
+}
